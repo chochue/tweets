@@ -1,0 +1,10 @@
+#contenido {
+    margin-top: 40px;
+}
+.borrar-tweet,
+.borrar-tweet:hover {
+    float: right;
+    cursor: pointer;
+    font-weight: bold;
+    color: rgb(228, 37, 37);
+}
